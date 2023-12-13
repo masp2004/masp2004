@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @masp2004
+- 👨‍🎓 CS Untergraduage
+- 🔑 HTML/CSS, SQL, Python, Git, Java, LaTeX
+- 📫 https://www.linkedin.com/in/marvinspiegel
