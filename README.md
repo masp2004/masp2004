@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @masp2004
+- 👋 Hi, I’m Marvin
 - 👨‍🎓 CS Untergraduage
 - 🔑 HTML/CSS, SQL, Python, Git, Java, LaTeX
