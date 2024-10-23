@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Marvin
-- 👨‍🎓 CS Untergraduage
+- 👨‍🎓 Business Informatics - Data Science Student
 - 🔑 HTML/CSS, SQL, Python, Git, Java, LaTeX
